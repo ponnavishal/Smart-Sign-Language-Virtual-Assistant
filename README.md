@@ -3,6 +3,7 @@ This project is a deep learning–based Smart Sign Language Detection System tha
 
 DATASET
 ASL Alphabet Recognition System using Deep Learning
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 This project uses a 29-class ASL alphabet dataset to train a high-accuracy CNN model capable of recognizing American Sign Language gestures in real time using a webcam. Includes dataset link, model training code, real-time prediction script, and deployment-ready app.py.
 
 ✅ Standard Description
